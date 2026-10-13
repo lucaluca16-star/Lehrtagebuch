@@ -1,0 +1,1 @@
+{"resources":{"Scripts/Script-1.sql":{"default-datasource":"postgres-jdbc-1a134a7c72c-3aa1ee1b6b209d6b","default-catalog":"postgres","default-schema":"public"},"Scripts/Script.sql":{"default-datasource":"postgres-jdbc-1a134a7c72c-3aa1ee1b6b209d6b","default-catalog":"postgres","default-schema":"public"}}}
